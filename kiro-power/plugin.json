@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ba-pipeline",
+  "version": "1.0.0",
+  "description": "AI-assisted business analysis from the first request to the release: build-ready requirements with human gates, an independent review, a live traceability matrix and a tamper-evident audit trail. Tiếng Việt: quy trình BA có AI hỗ trợ từ yêu cầu đầu tiên đến phát hành.",
+  "author": {
+    "name": "Jessie1704"
+  },
+  "keywords": [
+    "business analysis",
+    "BA",
+    "requirements",
+    "user story",
+    "acceptance criteria",
+    "BRD",
+    "URD",
+    "RTM",
+    "traceability",
+    "UAT",
+    "refinement",
+    "change request",
+    "audit trail",
+    "phân tích nghiệp vụ",
+    "yêu cầu nghiệp vụ",
+    "tài liệu BRD",
+    "hướng dẫn sử dụng",
+    "kiểm thử UAT"
+  ]
+}
